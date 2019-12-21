@@ -1,0 +1,14 @@
+[
+  {
+    "delay": 5,
+    "timeout": 2,
+    "website": "https://av.by/",
+    "email": "just3f@yandex.ru"
+  },
+  {
+    "delay": 5,
+    "timeout": 2,
+    "website": "https://onliner.by/",
+    "email": "just3f@yandex.ru"
+  }
+]
